@@ -53,7 +53,7 @@ plugins=(git last-working-dir)
 
 # User configuration
 
-  export PATH="/usr/local/heroku/bin:/home/crash/.rbenv/shims:/usr/microsoft/VSCode/:/usr/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/java/jdk1.8.0_60/bin:/home/crash/.rbenv/bin:/home/crash/.rbenv/plugins/ruby-build/bin:/usr/bin/go_appengine/:/home/crash/Documents/Projects/go-work/bin/"
+  export PATH="/usr/local/heroku/bin:/home/crash/.rbenv/shims:/usr/microsoft/VSCode/:/usr/java/jdk1.8.0_60/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/java/jdk1.8.0_60/bin:/home/crash/.rbenv/bin:/home/crash/.rbenv/plugins/ruby-build/bin:/usr/bin/go_appengine_sdk_linux_amd64_1.9.40/:/home/crash/Documents/Projects/go-work/bin/"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 alias gping="ping www.google.com"
