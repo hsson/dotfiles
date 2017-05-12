@@ -57,6 +57,7 @@ plugins=(git last-working-dir)
 # export MANPATH="/usr/local/man:$MANPATH"
 
 alias gping="ping www.google.com"
+alias cdgo="cd /home/crash/Documents/Projects/go-work/src/github.com/hsson/"
 
 source $ZSH/oh-my-zsh.sh
 
