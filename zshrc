@@ -58,6 +58,7 @@ plugins=(git last-working-dir)
 
 alias gping="ping www.google.com"
 alias cdgo="cd /home/crash/Documents/Projects/go-work/src/github.com/hsson/"
+alias cdgit="/home/crash/Documents/Projects/git/"
 
 source $ZSH/oh-my-zsh.sh
 
@@ -88,12 +89,3 @@ xrandr --dpi 140
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f /usr/bin/google-cloud-sdk/path.zsh.inc ]; then
-  source '/usr/bin/google-cloud-sdk/path.zsh.inc'
-fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f /usr/bin/google-cloud-sdk/completion.zsh.inc ]; then
-  source '/usr/bin/google-cloud-sdk/completion.zsh.inc'
-fi
